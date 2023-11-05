@@ -92,7 +92,4 @@
 
 Я швидко та легко знаходжу спільну мову майже із будь якою людиною, та вважаю це одним із найважливіших якостей в будь якій сфері діяльности та в житті взагалі.
 
-<img
-  src="https://github.com/basinphoto/CV/blob/main/images/stat.svg"
-  alt="Wakatime stats"
-/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@BasinS/7924efc3-58fa-40c3-94ef-138f3df4c8df.png" /></a>
